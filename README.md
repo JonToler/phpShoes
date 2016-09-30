@@ -1,6 +1,6 @@
 {PHP Brand Store}
 
-https://jontoler.github.io/phpSalon/
+
 
 {An application for manage the many to many relationships in a shoe store}
 
